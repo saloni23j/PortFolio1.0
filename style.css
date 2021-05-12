@@ -1,0 +1,22 @@
+:root{
+--primary-color: #edffec;
+--heading-color:  #34656D;
+}
+body{
+    background-color: var(--primary-color);
+}
+hr{
+   
+    border-style: none;
+    border-top-style:dotted;
+    border-color: grey;
+    border-width: 4px;
+    width: 5%;
+   
+}
+h1 {
+color: var(--heading-color);
+}
+h2{
+    color: var(--heading-color);
+}
